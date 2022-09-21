@@ -1,0 +1,15 @@
+.container {
+    height: 250x;
+    width: 250px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+    flex-direction: row;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px red;
+    box-shadow: -17px 2px 37px 0px rgba(255,0,0,1);
+    -webkit-box-shadow: -17px 2px 37px 0px rgba(255,0,0,1);
+    -moz-box-shadow: -17px 2px 37px 0px rgba(255,0,0,1);
+}
